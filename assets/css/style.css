@@ -315,6 +315,16 @@ main{
     gap: 10px;
 }
 
+.section-search{
+    width: 600px;
+    height: 200px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 3px rgba(0,0,0,0.17);
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    background: var(--secondary-background);
+}
 
 
 
